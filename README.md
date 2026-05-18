@@ -23,6 +23,7 @@ npx skills add ca-lee-b/personal-skills --skill create-prd
 | Skill | Description | Trigger Keywords |
 |-------|-------------|------------------|
 | [**create-prd**](./skills/create-prd/SKILL.md) | Synthesizes conversation into a concise, implementation-ready PRD. | "write a PRD", "create a PRD", "document requirements" |
+| [**implement-prd**](./skills/implement-prd/SKILL.md) | Executes implementation based on a PRD document. Best suited and optimized for `create-prd` output. | "implement this PRD", "build the spec" |
 
 ## 📄 License
 
