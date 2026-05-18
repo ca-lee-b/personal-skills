@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+
+# Local Agent Configurations
+.claude/
+.copilot/
+.opencode/
+.agents/
