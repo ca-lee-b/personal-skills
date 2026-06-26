@@ -29,7 +29,7 @@ npx skills add ca-lee-b/personal-skills --skill create-prd
 
 I personally use these skills with Opencode, which allows
 me to define custom agents. For example, I have a frontend agent
-using Kimi K2.6 and backend agent using GLM 5.1.
+using Kimi K2.7 and backend agent using GLM 5.2.
 
 This allows me to delegate the PRD to the agent best suited
 for a requirement.
